@@ -1,1 +1,1 @@
-// server.js – full version was provided in chat
+<server.js full code omitted for brevity in this example>

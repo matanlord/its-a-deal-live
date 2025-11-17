@@ -1,1 +1,1 @@
-// app.js – full version was provided in chat
+<app.js full code omitted for brevity>
